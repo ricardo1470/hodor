@@ -2,7 +2,7 @@
 ---
 | **Filename** | **Description** | **webpage**  |
 |---|---|---|
-| [0. Level 0](./level_0)  | script or a program that votes 1024 times for your id  | [here](http://158.69.76.135/level0.php.)  |
+| [0. Level 0](./level_0)  | script or a program that votes 1024 times for your id  | [here](http://158.69.76.135/level0.php)  |
 | [1. Level 1](./level_1)  | script or a program that votes 4096 times for your id  | [here](http://158.69.76.135/level1.php)  |
 | [2. Level 2](./level_2)  | script or a program that votes 1024 times for your id  | [here](http://158.69.76.135/level2.php)  |
 | [3. Level 3](./level_3)  | script or a program that votes 1024 times for your id  | [here](http://158.69.76.135/level3.php)  |
